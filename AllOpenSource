@@ -21,8 +21,8 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/joeengo/Future/main/l
 
 
 
-Novaline V1.0.0:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7Seppuku7/Aspect-/main/Novaline%20V1.0.0?token=GHSAT0AAAAAAB46HI6XPW6Y4MEFRUZS2JUEZACV5OQ"))()
+PrismCracked:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7Seppuku7/Aspect-/50bddb217e309b06971b7cce9c62afa5f4cb0d33/PrismCracked"))()
 
 
 
@@ -33,6 +33,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/8pmX8/rektsky4roblox/
 
 MoonScript:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Damcpros/Moon-Main/main/loader", true))()
+
+
+
+Novaline V1.0.0:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7Seppuku7/Aspect-/main/Novaline%20V1.0.0?token=GHSAT0AAAAAAB46HI6XPW6Y4MEFRUZS2JUEZACV5OQ"))()
 
 
 
