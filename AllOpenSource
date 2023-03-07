@@ -60,5 +60,11 @@ Darkrai:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/bedwars/main/Script", true))()
 
 
+
+JN-HH Gaming Hub V10:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YourLocalNzi/Ye/main/JNO10"))()
+
+
+
 AmberWare:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Technoraids/Amberware/main/RobloxTelanthricBedwars"))()
